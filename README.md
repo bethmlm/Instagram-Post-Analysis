@@ -8,9 +8,11 @@ The goal of this project is to create a web scraping bot with Selenium that will
 
 In this code I perform an example using the Instagram account of the Los Angeles based dog adoption agency Tobies Small Dog Rescue (because who doesn't like puppies?). We will scrape the infromation from all the posts on the 'tobiessmalldogrescue' instagram account and analyze the most used hashtags, which hashtags are associated with the most likes, and which dates and times are associted with the most likes.
 
-# Python v 3.7.3
+# Version and Library Info
 
-# Libraries
+Python v 3.7.3
+
+### Libraries
 selenium
 pandas
 numpy
